@@ -9,7 +9,7 @@ The structure ``HelloWorld`` package is like this: ::
   |-- HelloWorld
   |   `-- Main.java
   |-- LICENSE
-  |-- Manifest.txt
+  |-- Manifest.txtd
   `-- README.md
 
 Compile class
