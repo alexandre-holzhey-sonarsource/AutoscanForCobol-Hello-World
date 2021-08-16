@@ -7,7 +7,7 @@ The structure ``HelloWorld`` package is like this: ::
 
   example.java.helloworld/f
   |-- HelloWorld
-  |   `-- Main.java
+  |   `-- Main.javav
   |-- LICENSE
   |-- Manifest.txt
   `-- README.md
