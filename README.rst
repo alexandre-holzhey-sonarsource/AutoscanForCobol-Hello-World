@@ -5,7 +5,7 @@ This is "Hello World" Example for Java.
 
 The structure ``HelloWorld`` package is like this: ::
 
-  example.java.helloworld/
+  example.java.helloworld/f
   |-- HelloWorld
   |   `-- Main.java
   |-- LICENSE
