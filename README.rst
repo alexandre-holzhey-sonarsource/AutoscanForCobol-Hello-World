@@ -12,7 +12,7 @@ The structure ``HelloWorld`` package is like this: ::
   |-- Manifest.txt
   `-- README.md
 
-Compile class
+Compile class2
 -------------
 
 For compile the main class for package, execute the follow command: ::
